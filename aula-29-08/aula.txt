@@ -1,0 +1,10 @@
+git init -> iniciar o Git
+git clone -> Cópia o repositório a ser trabalhado
+git pull origin
+git add . ou nome do diretorio do arquivo -> adciona um arquivo novo ou alterado
+git rm . ou nome do diretorio do arquivo -> Remove um arquivo novo ou alterado
+git commit -m "Texto que vai aparecer nas obs" --> conjunto de mudanças permanentes
+git branch -M main -> area de trabalho
+git remote add origin https://github.com/urldorepositorio
+git push origin main -> "Empurra" os arquivos para o repositorio 
+git status -> verifica o status atual da fila
